@@ -9,6 +9,7 @@ public class Login_Modal {
 		
 			public boolean check_user_name(Login_bean obj_Login_bean) {
 				
+					//test
 					boolean flag = false;
 					
 					ConnectionDB obj_ConnectionDB = new ConnectionDB();
