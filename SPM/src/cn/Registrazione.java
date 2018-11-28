@@ -63,6 +63,7 @@ public class Registrazione extends HttpServlet {
 			 cryptopassword = obj_ConnectionDB.hash(password);
 		} catch (NoSuchAlgorithmException e1) {
 			// TODO Auto-generated catch block
+			//prova
 			e1.printStackTrace();
 		}
 		  
